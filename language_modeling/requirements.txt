@@ -1,0 +1,12 @@
+transformers==4.43.0
+accelerate==0.32.1
+tokenizers
+peft
+safetensors
+evaluate
+datasets
+numpy
+wandb
+natsort
+blobfile
+gzip
