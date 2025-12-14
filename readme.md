@@ -1,6 +1,7 @@
 <div align="center">
 <h1>Multi-Token Prediction Needs Registers</h1>
 <h2> ⭐ NeurIPS 2025 POSTER ⭐ </h2>
+  
 **Anastasios Gerontopoulos<sup>1,3</sup>, Spyros Gidaris<sup>2</sup>, Nikos Komodakis<sup>1,3,4</sup>**
 
 <sup>1</sup>Archimedes/Athena RC &emsp; <sup>2</sup>valeo.ai  &emsp;
